@@ -1,0 +1,6 @@
+@woordenschat_HostAddress = http://localhost:5188
+
+GET {{woordenschat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
